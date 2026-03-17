@@ -1,4 +1,4 @@
-Arithmetic Operations Using Multiple Inheritance in Python
+#Arithmetic Operations Using Multiple Inheritance in Python
 
 This Python program demonstrates **multiple inheritance** by performing basic arithmetic operations — Addition, Subtraction, and Division — using three classes.
 
